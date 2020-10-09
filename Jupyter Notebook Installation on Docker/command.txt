@@ -1,5 +1,0 @@
-#Install Jupyter-All-Spark_Notebook
-docker run -p -it 8888:8888 -v C:/Users/ioa/Downloads/:/downloads --name jupyter jupyter/all-spark-notebook
-
-#Login as Root
-docker exec --user root –it jupyter bash
