@@ -11,10 +11,10 @@ docker exec --user root –it zeppelin_0.9.0 bash
 
 # Jupyter Notebook on Docker
 
-### Pull Jupyter-All-Spark_Notebook from Dockerhub
+### Pull Jupyter-All-Spark-Notebook from Dockerhub
 docker pull jupyter/all-spark-notebook
 
-### Run Jupyter-All-Spark_Notebook
+### Run Jupyter-All-Spark-Notebook
 docker run -p -it 8888:8888 -v C:/Users/.../Downloads/:/downloads --name jupyter jupyter/all-spark-notebook
 
 ### Enter into bash as root
