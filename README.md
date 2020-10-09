@@ -1,4 +1,4 @@
-# Download & Install Docker on Windows
+# Download & Install Docker for Windows
 https://hub.docker.com/editions/community/docker-ce-desktop-windows/
 
 # Zeppelin Notebook on Docker
