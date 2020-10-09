@@ -1,5 +1,0 @@
-#Install Zeppelin 0.9.0
-docker run -p 8080:8080 -v C:/Users/ioa/Downloads/:/downloads -v C:/Zeppelin/logs:/zeppelin/logs -v C:/Zeppelin/notebook:/zeppelin/notebook --name zeppelin_0.9.0 apache/zeppelin:0.9.0
-
-#Login as Root
-docker exec --user root –it zeppelin_0.9.0 bash
