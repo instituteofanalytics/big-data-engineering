@@ -1,6 +1,6 @@
 # Zeppelin Notebook on Docker
 
-### Install Latest Zeppelin from Dockerhub
+### Pull latest Zeppelin Notebook from Dockerhub
 docker pull apache/zeppelin:0.9.0
 
 ### Run Zeppelin 0.9.0
@@ -11,7 +11,7 @@ docker exec --user root –it zeppelin_0.9.0 bash
 
 # Jupyter Notebook on Docker
 
-### Install Jupyter All-Spark-Notebook from Dockerhub
+### Pull Jupyter-All-Spark_Notebook from Dockerhub
 docker pull jupyter/all-spark-notebook
 
 ### Run Jupyter-All-Spark_Notebook
