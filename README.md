@@ -1,3 +1,6 @@
+# Download & Install Docker on Windows
+https://hub.docker.com/editions/community/docker-ce-desktop-windows/
+
 # Zeppelin Notebook on Docker
 
 ### Pull latest Zeppelin Notebook from Dockerhub
